@@ -1,0 +1,39 @@
+---
+layout:     post
+title:      "Say Hello to Justnote"
+subtitle:   " \"Just build it\""
+date:       2019-07-11 21:38:00
+author:     "Jinbo"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - 生活
+    - Meta
+---
+
+> “想的太多，不如开干”
+
+决定开始做一款笔记应用，起名叫做`Justnote`。
+
+主要是想撸一发Full Stack开发，包括前期的设计，以及后期的测试，部署和维护。
+
+支持Web，iOS和Android，以及Desktop。打算用React Native来做移动端，用Electron来做Desktop端。
+
+V1 Mockup:
+
+![](/img/in-post/justnote/main.png)
+
+## Version 1 功能很简单：
+
+1. 账户注册/登录
+
+2. Note的增删查改
+
+## Stack:
+
+MERN + Reative Native + Electron
+
+## Design:
+
+Sketch + [Invision](https://invis.io/7GT4UDZJ932#/375520131_Main)
+
