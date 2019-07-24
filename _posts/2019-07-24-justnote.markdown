@@ -2,13 +2,12 @@
 layout:     post
 title:      "Say Hello to Justnote"
 subtitle:   " \"Just build it\""
-date:       2019-07-11 21:38:00
+date:       2019-07-24 22:40:00
 author:     "Jinbo"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
-    - 生活
-    - Meta
+    - Dev
 ---
 
 > “想的太多，不如开干”
