@@ -8,6 +8,7 @@ header-img: "img/in-post/justnote/note-title-banner.jpg"
 catalog: true
 tags:
     - Dev
+    - Justnote
 ---
 
 > “想的太多，不如开干”
@@ -16,23 +17,34 @@ tags:
 
 主要是想撸一发Full Stack开发，包括前期的设计，以及后期的测试，部署和维护。
 
-支持Web，iOS和Android，以及Desktop。打算用React Native来做移动端，用Electron来做Desktop端。
+支持Web，iOS和Android，以及Desktop。之后会考虑微信小程序的扩展。
 
-V1 Mockup:
-
-![](/img/in-post/justnote/main.png)
-
-## Version 1 功能很简单：
+## Version 0.1 功能很简单：
 
 1. 账户注册/登录
 
 2. Note的增删查改
 
+### Mockup:
+
+![](/img/in-post/justnote/main.png)
+
 ## Stack:
 
-MERN + Reative Native + Electron
+* MongoDB + Express + React + Nodejs (MERN)
+
+* Web要做成PWA
+
+* 移动端: React Native + Webview加载PWA
+
+* Desktop: 用Electron封装（对Electron还不太了解）
+
+* 尝试尽量用一套前端代码搞定所有客户端
 
 ## Design:
 
 Sketch + [Invision](https://invis.io/7GT4UDZJ932#/375520131_Main)
 
+## DB Schema:
+
+![](/img/in-post/justnote/db_schema.png)
