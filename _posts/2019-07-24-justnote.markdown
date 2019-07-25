@@ -4,7 +4,7 @@ title:      "Say Hello to Justnote"
 subtitle:   " \"Just build it\""
 date:       2019-07-24 22:40:00
 author:     "Jinbo"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/in-post/justnote/note-title-banner.jpg"
 catalog: true
 tags:
     - Dev
