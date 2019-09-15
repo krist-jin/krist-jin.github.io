@@ -13,7 +13,7 @@ tags:
 
 果不其然，一拖两个月过去了😪。不过好在是API开发算是有了些进展，在此记录一下遇到的坑和收获。
 
-首先，我的源码地址：https://github.com/krist-jin/Justnote/tree/master/api
+首先，我的源码地址：[https://github.com/krist-jin/Justnote/tree/master/api](https://github.com/krist-jin/Justnote/tree/master/api)
 
 如上篇所说，API的开发用了MERN的Stack。过程中主要参考了这篇文章[building REST API with Nodejs/MongoDB/Passport/JWT](https://medium.com/@kris101/building-rest-api-in-nodejs-mongodb-passport-jwt-6c557332d4ca)。作者Kris写的十分详细，而且每个阶段都有提供源码，推荐一看。
 
